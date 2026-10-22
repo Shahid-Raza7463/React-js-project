@@ -1,0 +1,41 @@
+when project run then 
+backend start 
+1 cd backend
+2 node index.js
+  get message connected then 
+  open broser and hit url http://localhost:5000/
+
+frontend start
+1 cd frontend 
+2 npm start
+3 Automatic goes to browser 
+
+snipte formate 
+rfce then enter 
+
+
+
+
+
+###################frontend package
+1
+npm i react-router-dom
+
+#bootstrap install
+npm install react-bootstrap bootstrap
+
+
+############### backend package
+
+2
+npm install cors
+3
+npm run build
+4
+npx nodemon index.js
+5
+npm i nodemon
+npm audit  
+nodemon  
+npm i module  
+npm audit fix --force
