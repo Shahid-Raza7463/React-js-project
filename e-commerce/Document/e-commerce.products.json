@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "664f95f8a34173f0f30abf52"
+  },
+  "name": "phoneq",
+  "price": "1000",
+  "category": "shahid",
+  "userId": "664f95a7a34173f0f30abf4e",
+  "company": "iphone",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664f993fa34173f0f30abf7c"
+  },
+  "name": "chata",
+  "price": "100",
+  "category": "na",
+  "userId": "664f9920a34173f0f30abf77",
+  "company": "balance",
+  "__v": 0
+}]
